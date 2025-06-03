@@ -21,3 +21,7 @@ i) Kviz: Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila
 
 ## Vezalna shema:
 ![image](https://github.com/user-attachments/assets/42329c4f-bc97-4d5c-9986-0d9bb28b7c9e)
+
+
+## Slika vezja:
+![image](https://github.com/user-attachments/assets/339ffb8a-9f87-4707-bd2a-eff0cb548c08)
