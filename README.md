@@ -17,3 +17,7 @@ i) Kviz: Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila
 | 8   | Gumb (reset)      | 1        | Za reset kviza             |
 | 9   | Upor 220 Ω        | 6        | Za omejitev toka           |
 |10   | Potenciometer     | 1        | Za nastavitve LCD          |
+
+
+## Komentar:
+Za funkcionalnost "reset" sva uporabila že vgrajeni gumb na plošči Arduino Uno, saj zaradi omejenega števila pinov nismo imeli možnosti uporabe ločenega gumba.
