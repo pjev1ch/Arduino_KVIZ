@@ -3,7 +3,7 @@
 i) Kviz: Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila pritisnjena prva, katera druga in katera tretja. Zelena LED pomeni, da ni nihče še pritisnil na tipko (začetek kviza), rumena LED pomeni, da je vsaj en igralec pritisnil na tipko. Ko so vsi trije igralci pritisnili svoje tipke, utripa rdeča LED. S tipko za reset R ugasnemo rdečo LED diodo in resetiramo kviz. Za prikaz vrstnega reda uporabite LCD zaslon.
 
 
-## Priredbeni seznam
+## Priredbeni seznam:
 
 | Št. | Komponenta       | Količina | Opombe                     |
 |-----|------------------|----------|----------------------------|
@@ -17,3 +17,7 @@ i) Kviz: Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila
 | 8   | Gumb (reset)      | 1        | Za reset kviza             |
 | 9   | Upor 220 Ω        | 6        | Za omejitev toka           |
 |10   | Potenciometer     | 1        | Za nastavitve LCD          |
+
+
+## Vezalna shema:
+![image](https://github.com/user-attachments/assets/42329c4f-bc97-4d5c-9986-0d9bb28b7c9e)
